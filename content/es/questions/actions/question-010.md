@@ -3,9 +3,8 @@ question: "¿Dónde deberías almacenar datos sensibles como contraseñas o cert
 title: "Pregunta 010"
 ---
 
-> https://docs.github.com/es/actions/security-guides/using-secrets-in-github-actions
-1. [x] secrets
-1. [ ] config variables
-1. [ ] vault
-1. [ ] environment variables
-
+> https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions
+1. [x] secrets  
+1. [ ] config variables  
+1. [ ] vault  
+1. [ ] environment variables  
